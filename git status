@@ -1,0 +1,35 @@
+[33mcommit ee9e78cc177ce7c551866fc581c98d5ec4e80c0d[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m, [m[1;32mmanish/multiplication[m[33m)[m
+Author: Manish <manishnegi522@gmail.com>
+Date:   Wed Apr 2 12:24:54 2025 +0530
+
+    added multiplication by manish in new java multiply file
+
+[33mcommit c7db92320521312663a9aa017fa6152b7f7aae98[m
+Author: Manish <manishnegi522@gmail.com>
+Date:   Tue Apr 1 14:57:25 2025 +0530
+
+    first change in dev adding variables x,y,z
+
+[33mcommit 5872fd9c6497a765e4e039043317373e2aef55a2[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Manish <manishnegi522@gmail.com>
+Date:   Tue Apr 1 00:54:04 2025 +0530
+
+    commit for the updation of code in sub.java
+
+[33mcommit c9f833f1c53cdc2ccee5adf1aafeed429df12fb6[m
+Author: Manish <manishnegi522@gmail.com>
+Date:   Mon Mar 31 17:45:39 2025 +0530
+
+    in sout i have changes the lit bit of code
+
+[33mcommit 2cbbea5db61c291c7e1e84461188f95f545005df[m
+Author: Manish <manishnegi522@gmail.com>
+Date:   Mon Mar 31 17:37:33 2025 +0530
+
+    first commit of adding and subtraction without writing subtration code
+
+[33mcommit d51a62cc06a202e866a3855b6e6d69ff4ca672da[m
+Author: Manish <manishnegi522@gmail.com>
+Date:   Mon Mar 31 17:30:42 2025 +0530
+
+    initial commit
